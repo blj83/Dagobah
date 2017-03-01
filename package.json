@@ -1,0 +1,22 @@
+{
+  "name": "static-flow",
+  "version": "1.0.1",
+  "description": "static-flow theme by @benjohnsn based on Mapache theme for ghost by @GodoFredoNinja",
+  "scripts": {},
+  "bugs": {
+    "url": "https://github.com/godofredoninja/Mapache/issues",
+    "email": "hello@godofredo.ninja"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Ben Johnson",
+    "email": "bljohnson83@gmail.com",
+    "url": "https://benjohnsn.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blj83/static-flow"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

@@ -1,0 +1,9 @@
+{{!-- Navigation template --}}
+<ul class="u-unstyled">
+    {{#foreach navigation}}
+        <li><a href="{{url absolute="true"}}" class="navigation-link {{#if current}}active{{/if}}">{{label}}</a></li>
+    {{/foreach}}
+    <li><a href="#about-me" class="navigation-link">About Me</a></li>
+    <li><a href="#experience" class="navigation-link">Experience</a></li>
+    <li><a href="#portfolio" class="navigation-link">Portfolio</a></li>
+</ul>
