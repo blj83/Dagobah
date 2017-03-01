@@ -2,26 +2,27 @@
 
 [![Ghost version](https://img.shields.io/badge/Ghost-0.11.x-brightgreen.svg?style=flat-square)](https://ghost.org/)
 [![Node version](https://img.shields.io/node/v/uno-zen.svg?style=flat-square)](https://nodejs.org/en/)
-[![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](http://bit.ly/DonateMapacheGhost)
 
 > Minimalist Material Design and Elegant theme for [Ghost](https://github.com/tryghost/ghost/).
 
 ### Free theme for Ghost
 
-Hello, I created this theme Ghost to see how it works. It is available for free so you can use on your site. It is strictly forbidden commercial use. If you have any suggestions to improve the theme,  you can send me tweet to [@GodoFredoNinja](http://bit.ly/tw-GodoFredoNinja)
+Hello, I created this theme for Ghost for my personal webpage. I had a desire to utilize the functionality to have a seperate home page as a landing page for my personal website. I will walk you through the details of how I made that happen and how it can be replicated for your sites. I also utilize a static page as a landing page for my blog. It is available for free so you can use on your site. It is derived from the Mapache theme at [Mapache](https://github.com/godofredoninja/Mapache).
 
-![](./documentation/mapache-screenshot.png)
+![](./documentation/static-flow.png)
 
 
 ## Demo
-You can see a demo in my [blog](http://bit.ly/GodoFredoNinja-blog).
+You can see a demo in my [Personal Website](http://benjohnsn.com).
 
-## Mapache Support for Web Browsers
-Mapache supports the following web [browsers](http://caniuse.com/#search=flexbox)
+## Static Flow Support for Web Browsers
+Static-Flow supports the following web [browsers](http://caniuse.com/#search=flexbox)
 
 ## Featured
 - Responsive layout
 - Blog navigation
+- A static home page using the home.hbs template
+- Redirecting the blog to https://url.com/blog
 - Page 404 (Multiple faces emoticons)
 - Page subscribe
 - Pagination Infinite Scroll
@@ -244,8 +245,6 @@ Take a look at the [Prismjs Supported Language List](http://prismjs.com/#languag
 If you want to have a video post format, you only have to add the tag `#video-post-format` . The first video in the article will be large in size.
 
 ![](./documentation/video-format.png)
-
-![](./documentation/video.png)
 
 ## Image Post Format
 If you want to have a image post format, you only have to add the tag `#image-post-format` The Featured image will become large in size
