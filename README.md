@@ -1,4 +1,4 @@
-# Static Flow for [Ghost](https://github.com/tryghost/ghost/) by Ben Johnson
+# Dagobah for [Ghost](https://github.com/tryghost/ghost/) by Ben Johnson
 
 [![Ghost version](https://img.shields.io/badge/Ghost-0.11.x-brightgreen.svg?style=flat-square)](https://ghost.org/)
 [![Node version](https://img.shields.io/node/v/uno-zen.svg?style=flat-square)](https://nodejs.org/en/)
@@ -15,8 +15,8 @@ Hello, I created this theme for Ghost for my personal webpage. I had a desire to
 ## Demo
 You can see a demo in my [Personal Website](http://benjohnsn.com).
 
-## Static Flow Support for Web Browsers
-Static-Flow supports the following web [browsers](http://caniuse.com/#search=flexbox)
+## Dagobah Support for Web Browsers
+Dagobah supports the following web [browsers](http://caniuse.com/#search=flexbox)
 
 ## Featured
 - Responsive layout
@@ -47,7 +47,7 @@ Static-Flow supports the following web [browsers](http://caniuse.com/#search=fle
 Create an image icon with these dimensions with the name icon.png `155px * 155px` in ` Copy your new favorite icon to ./assets/img/icon.png`
 
 
-## Mapache settings
+## Dagobah settings
 - Enable **all** checkboxes on the labs page in your Ghost admin panel.
 
 ![](./documentation/img-api.png)
