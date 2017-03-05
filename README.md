@@ -7,7 +7,7 @@
 
 ### Free theme for Ghost
 
-Hello, I created this theme for Ghost for my personal webpage. I had a desire to utilize the functionality to have a seperate home page as a landing page for my personal website. I will walk you through the details of how I made that happen and how it can be replicated for your sites. I also utilize a static page as a landing page for my blog. It is available for free so you can use on your site. It is derived from the Mapache theme at [Mapache](https://github.com/godofredoninja/Mapache).
+Hello, I created this theme for Ghost for my personal webpage. Being a Star Wars fan and this being the theme I have been learning with I thought Dagobah was an apprpriate title for the theme. I had a desire to utilize the functionality to have a seperate home page as a landing page for my personal website. I will walk you through the details of how I made that happen and how it can be replicated for your sites. I also utilize a static page as a landing page for my blog. It is available for free so you can use on your site. It is derived from the Mapache theme at [Mapache](https://github.com/godofredoninja/Mapache).
 
 ![](./documentation/static-flow.png)
 
@@ -24,7 +24,6 @@ Dagobah supports the following web [browsers](http://caniuse.com/#search=flexbox
 - A static home page using the home.hbs template
 - Redirecting the blog to https://url.com/blog
 - Page 404 (Multiple faces emoticons)
-- Page subscribe
 - Pagination Infinite Scroll
 - Cover images for blog, tag and author
 - links to followers in social media
